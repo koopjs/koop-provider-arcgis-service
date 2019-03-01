@@ -1,0 +1,19 @@
+{
+  "name": "koop-provider-arcgis-service",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^6.2.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {
+    "koop": "^3.10.1"
+  }
+}
