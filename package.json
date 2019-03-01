@@ -7,8 +7,16 @@
     "test": "standard",
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koopjs/koop-provider-arcgis-service.git"
+  },
+  "author": "Rich Gwozdz <rgwozdz@esri.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/koopjs/koop-provider-arcgis-service/issues"
+  },
+  "homepage": "https://github.com/koopjs/koop-provider-arcgis-service#readme",
   "dependencies": {
     "query-string": "^6.2.0",
     "request-promise": "^4.2.4"
